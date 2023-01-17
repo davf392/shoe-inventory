@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Shoe Store</string>
+    <string name="login">Login</string>
+    <string name="welcome">Welcome</string>
+    <string name="shoelist">Inventory</string>
+    <string name="instructions">Instructions</string>
+    <string name="detail">Add a New Pair</string>
+    <string name="welcome_text">Welcome !</string>
+    <string name="welcome_detail_text">Welcome the my Shoe Store App :)</string>
+    <string name="welcome_button">Go to Instructions Page</string>
+    <string name="instructions_text">Instructions</string>
+    <string name="instructions_details">You are redirected to the shoe list page. Start your shoe review now!</string>
+    <string name="go_to_instructions">Go to shoe List</string>
+    <string name="email">Email:</string>
+    <string name="password">Password:</string>
+    <string name="login_txt">Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="shoe_name">Shoe Name</string>
+    <string name="company_name">Company Name</string>
+    <string name="shoe_size">Shoe Size</string>
+    <string name="description">Description</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+</resources>
